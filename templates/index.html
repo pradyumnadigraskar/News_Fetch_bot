@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Fetcher</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Top News</h1>
+        <label for="category">Select News Category:</label>
+        <select id="category">
+            <option value="pilgrimage">Pilgrimage News</option>
+            <option value="devotional">Devotional News</option>
+        </select>
+        <button onclick="fetchNews()">Get News</button>
+
+        <div id="news-container"></div>
+    </div>
+</body>
+</html>
