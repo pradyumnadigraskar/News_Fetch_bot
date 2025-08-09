@@ -114,9 +114,9 @@ Want to improve this project? Contributions are welcome! Follow these steps:
 ---
 
 ## 📞 Contact
-💡 Created by **Your Name**  
-📧 Email: [your.email@example.com](mailto:pradyumnadigraskar11@gmail.com)  
-🔗 GitHub: [your-github-profile](https://github.com/pradyumnadigraskar)  
+💡 Created by **Pradyumna Digraskar**  
+📧 Email: [pradyumnadigraskar11@gmail.com](mailto:pradyumnadigraskar11@gmail.com)  
+🔗 GitHub: [https://github.com/pradyumnadigraskar) ](https://github.com/pradyumnadigraskar)  
 
 
 
